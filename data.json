@@ -1,0 +1,29 @@
+{
+    "tags": [
+        "next.js",
+        "internationalization",
+        "favicon",
+        "i18next",
+        "app-router"
+    ],
+    "owner": {
+        "account_id": 22264669,
+        "reputation": 43,
+        "user_id": 16495635,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/qvVIT.png?s=256&g=1",
+        "display_name": "mondevyat",
+        "link": "https://stackoverflow.com/users/16495635/mondevyat"
+    },
+    "is_answered": false,
+    "view_count": 6,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1699959599,
+    "creation_date": 1699957234,
+    "last_edit_date": 1699959599,
+    "question_id": 77479803,
+    "content_license": "CC BY-SA 4.0",
+    "link": "https://stackoverflow.com/questions/77479803/nextjs-14-next-js-14-favicon-problem-after-changing-project-structure-to-add-i",
+    "title": "Nextjs 14 / Next.js 14 favicon problem after changing project structure to add Internationalization"
+}
